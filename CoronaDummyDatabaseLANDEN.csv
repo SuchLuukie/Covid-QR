@@ -1,0 +1,28 @@
+﻿Land ID#;EU-Land;Minimaal aantal vaccinaties nodig?;Telt eerdere besmetting mee als 1 vaccinatie?;Accepteert PCR test als alternatief voor 1 vaccinatie?;BSN verplicht op certificaat?;Toelatingsreden op certificaat?
+1;België;2  of  1 indien Jansen/Astra Zenica;Nee;Ja;Ja;Ja
+2;Bulgarije;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+3;Zuid-Cyprus;1, ongeacht welk type;Ja, mits niet ouder dan 6 maanden;Ja;Nee, ook niet toegestaan;Ja
+4;Denemarken;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+5;Duitsland;1, ongeacht welk type;Ja, mits niet ouder dan 6 maanden;Ja;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+6;Estland;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 12 maanden;Ja;Ja;Ja
+7;Finland;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Ja;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+8;Frankrijk;1, ongeacht welk type;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 48 uur oud;Ja;Ja
+9;Griekenland;1, ongeacht welk type;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 48 uur oud;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+10;Hongarije;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+11;Ierland;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 12 maanden;Ja, maximaal 48 uur oud;Ja;Ja
+12;Italië;1, alleen goedgekeurde vaccins;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+13;Kroatië;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 24 uur oud;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+14;Letland;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Ja;Ja
+15;Litouwen;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 48 uur oud;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+16;Luxemburg;1, alleen goedgekeurde vaccins;Ja, mits niet ouder dan 6 maanden;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+17;Malta;1, ongeacht welk type;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+18;Nederland;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 72 uur oud;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+19;Oostenrijk;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 8 maanden;Ja, maximaal 48 uur oud;Ja;Ja
+20;Polen;2;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+21;Portugal;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Ja, maximaal 72 uur oud;Ja;Ja
+22;Roemenië;2;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+23;Slovenië;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+24;Slowakije;2;Ja, mits niet ouder dan 4 maanden;Nee;Ja;Ja
+25;Spanje;2  of  1 indien Jansen/Astra Zenica;Ja, mits niet ouder dan 6 maanden;Nee;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+26;Tsjechië;1, alleen goedgekeurde vaccins;Ja, mits niet ouder dan 4 maanden;Ja, maximaal 48 uur oud;Nee, ook niet toegestaan;Nee, ook niet toegestaan
+27;Zweden;2  of  1 indien Jansen/Astra Zenica;Nee;Nee;Ja;Ja
