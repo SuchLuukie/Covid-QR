@@ -1,0 +1,245 @@
+[
+    {
+        "Land ID#": 1,
+        "EU-Land": "Belgi\u00eb",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F2"
+    },
+    {
+        "Land ID#": 2,
+        "EU-Land": "Bulgarije",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F3"
+    },
+    {
+        "Land ID#": 3,
+        "EU-Land": "Zuid-Cyprus",
+        "Minimaal aantal vaccinaties nodig": "1, ongeacht welk type",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": 1
+    },
+    {
+        "Land ID#": 4,
+        "EU-Land": "Denemarken",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F5"
+    },
+    {
+        "Land ID#": 5,
+        "EU-Land": "Duitsland",
+        "Minimaal aantal vaccinaties nodig": "1, ongeacht welk type",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F6"
+    },
+    {
+        "Land ID#": 6,
+        "EU-Land": "Estland",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 12 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F7"
+    },
+    {
+        "Land ID#": 7,
+        "EU-Land": "Finland",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F8"
+    },
+    {
+        "Land ID#": 8,
+        "EU-Land": "Frankrijk",
+        "Minimaal aantal vaccinaties nodig": "1, ongeacht welk type",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F9"
+    },
+    {
+        "Land ID#": 9,
+        "EU-Land": "Griekenland",
+        "Minimaal aantal vaccinaties nodig": "1, ongeacht welk type",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F10"
+    },
+    {
+        "Land ID#": 10,
+        "EU-Land": "Hongarije",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F11"
+    },
+    {
+        "Land ID#": 11,
+        "EU-Land": "Ierland",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 12 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F12"
+    },
+    {
+        "Land ID#": 12,
+        "EU-Land": "Itali\u00eb",
+        "Minimaal aantal vaccinaties nodig": "1, alleen goedgekeurde vaccins",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F13"
+    },
+    {
+        "Land ID#": 13,
+        "EU-Land": "Kroati\u00eb",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 24 uur oud",
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F14"
+    },
+    {
+        "Land ID#": 14,
+        "EU-Land": "Letland",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F15"
+    },
+    {
+        "Land ID#": 15,
+        "EU-Land": "Litouwen",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F16"
+    },
+    {
+        "Land ID#": 16,
+        "EU-Land": "Luxemburg",
+        "Minimaal aantal vaccinaties nodig": "1, alleen goedgekeurde vaccins",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F17"
+    },
+    {
+        "Land ID#": 17,
+        "EU-Land": "Malta",
+        "Minimaal aantal vaccinaties nodig": "1, ongeacht welk type",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F18"
+    },
+    {
+        "Land ID#": 18,
+        "EU-Land": "Nederland",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 72 uur oud",
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F19"
+    },
+    {
+        "Land ID#": 19,
+        "EU-Land": "Oostenrijk",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 8 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F20"
+    },
+    {
+        "Land ID#": 20,
+        "EU-Land": "Polen",
+        "Minimaal aantal vaccinaties nodig": 2,
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F21"
+    },
+    {
+        "Land ID#": 21,
+        "EU-Land": "Portugal",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 72 uur oud",
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F22"
+    },
+    {
+        "Land ID#": 22,
+        "EU-Land": "Roemeni\u00eb",
+        "Minimaal aantal vaccinaties nodig": 2,
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F23"
+    },
+    {
+        "Land ID#": 23,
+        "EU-Land": "Sloveni\u00eb",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F24"
+    },
+    {
+        "Land ID#": 24,
+        "EU-Land": "Slowakije",
+        "Minimaal aantal vaccinaties nodig": 2,
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 4 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F25"
+    },
+    {
+        "Land ID#": 25,
+        "EU-Land": "Spanje",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 6 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F26"
+    },
+    {
+        "Land ID#": 26,
+        "EU-Land": "Tsjechi\u00eb",
+        "Minimaal aantal vaccinaties nodig": "1, alleen goedgekeurde vaccins",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": "Ja, mits niet ouder dan 4 maanden",
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": "Ja, maximaal 48 uur oud",
+        "BSN verplicht op certificaat?": "Nee, ook niet toegestaan",
+        "Toelatingsreden op certificaat?": "=F27"
+    },
+    {
+        "Land ID#": 27,
+        "EU-Land": "Zweden",
+        "Minimaal aantal vaccinaties nodig": "2  of  1 indien Jansen/Astra Zenica",
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 0,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 0,
+        "BSN verplicht op certificaat?": 1,
+        "Toelatingsreden op certificaat?": "=F28"
+    }
+]
