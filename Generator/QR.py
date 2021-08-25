@@ -6,6 +6,8 @@ class QR:
 	def create_qr(self, binnenlands, info):
 		info = self.encrypt(binnenlands, info)
 		img = qrcode.make(info)
+
+		print(self.decrypt(binnenlands, info))
 		img.save("qrcode.png")
 
 
