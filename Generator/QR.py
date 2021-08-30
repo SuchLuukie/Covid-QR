@@ -1,13 +1,15 @@
 # Import libraries
+import json
 import qrcode
 from cryptography.fernet import Fernet
 
 class QR:
 	def create_qr(self, binnenlands, info):
-		info = self.encrypt(binnenlands, info)
-		img = qrcode.make(info)
+		info = json.dumps(info)
+		encrypted_info = self.encrypt(binnenlands, info)
+		img = qrcode.make(encrypted_info)
 
-		print(self.decrypt(binnenlands, info))
+		print(encrypted_info)
 		img.save("qrcode.png")
 
 
@@ -23,7 +25,6 @@ class QR:
 		f = Fernet(key)
 
 		return f.decrypt(encrypted_info).decode()
-
 
 
 	def get_key(self, binnenlands):
