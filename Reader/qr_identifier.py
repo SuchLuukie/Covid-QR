@@ -21,7 +21,7 @@ class qr_identifier:
 				return False
 
 			json_data = json.loads(decrypted_data)
-			self.app.gui_func.qr_detected(json_data)
+			self.app.gui_func.qr_detected(json_data, self.is_binnenlands)
 
 			return True
 

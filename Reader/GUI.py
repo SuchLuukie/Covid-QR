@@ -12,7 +12,7 @@ class GUI:
 
 		# Basic settings for the window
 		self.root.title("Covid-19 QR-Code Reader")
-		self.root.geometry("800x700")
+		self.root.geometry("800x800")
 		self.root.configure(bg="#23272A")
 		self.root.update()
 
@@ -23,6 +23,8 @@ class GUI:
 
 		self.qr_i = qr_identifier(self)
 		self.gui_func = GUI_Func(self)
+
+		self.video.imitate_qr()
 
 
 class countries(tk.Frame):
@@ -98,6 +100,17 @@ class video(tk.Frame):
 
 		self.label = tk.Label(self.frame, bg="grey")
 		self.label.pack(fill="both")
+
+
+	def imitate_qr(self):
+		cv2image = cv2.imread("../qrcode.png", cv2.COLOR_BGR2RGBA)
+		img = Image.fromarray(cv2image).resize((self.width, self.height), Image.ANTIALIAS)
+		imgtk = ImageTk.PhotoImage(image=img)
+
+		self.label.image = imgtk
+		self.label.configure(image=imgtk)
+
+		self.activate = not self.app.qr_i.identify_qr(cv2image)
 
 
 	def video_feed(self):
