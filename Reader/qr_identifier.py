@@ -18,7 +18,7 @@ class qr_identifier:
 			barcodeData = obj.data
 			decrypted_data = self.decrypt(barcodeData)
 			if decrypted_data is None:
-				self.app.gui_func.trigger_red()
+				self.app.gui_func.trigger_pink()
 				return False
 
 			json_data = json.loads(decrypted_data)
@@ -26,7 +26,7 @@ class qr_identifier:
 
 			return True
 
-		self.app.gui_func.trigger_red()
+		#self.app.gui_func.trigger_red()
 		return False
 
 

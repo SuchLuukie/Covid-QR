@@ -24,6 +24,7 @@ class GUI:
 		self.qr_i = qr_identifier(self)
 		self.gui_func = GUI_Func(self)
 
+		#self.video.video_feed()
 		self.video.imitate_qr()
 
 
@@ -64,7 +65,7 @@ class buttons(tk.Frame):
 		self.frame = tk.Frame(root)
 
 		width = gm[0] * 0.25
-		height = gm[1] * 0.1
+		height = gm[1] * 0.08
 		x = gm[0] * (0.75 / 4)
 		y = gm[1] * 0.85
 
@@ -123,8 +124,8 @@ class video(tk.Frame):
 
 			self.label.image = imgtk
 			self.label.configure(image=imgtk)
-
-			self.activate = not self.app.qr_i.identify_qr(cv2image)
+			self.app.qr_i.identify_qr(cv2image)
+			#self.activate = not self.app.qr_i.identify_qr(cv2image)
 
 		if self.activate:
 			self.label.after(1, self.video_feed)

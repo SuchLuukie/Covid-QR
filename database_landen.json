@@ -21,7 +21,7 @@
         "Land ID#": 3,
         "EU-Land": "Zuid-Cyprus",
         "Minimaal aantal vaccinaties nodig": [1, "any"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": true,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": true
@@ -39,7 +39,7 @@
         "Land ID#": 5,
         "EU-Land": "Duitsland",
         "Minimaal aantal vaccinaties nodig": [1, "any"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": true,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
@@ -48,7 +48,7 @@
         "Land ID#": 6,
         "EU-Land": "Estland",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 12],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 12,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": true,
         "BSN verplicht op certificaat?": true,
         "Toelatingsreden op certificaat?": true
@@ -57,7 +57,7 @@
         "Land ID#": 7,
         "EU-Land": "Finland",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 1,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
@@ -66,8 +66,8 @@
         "Land ID#": 8,
         "EU-Land": "Frankrijk",
         "Minimaal aantal vaccinaties nodig": [1, "any"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": true,
         "Toelatingsreden op certificaat?": true
     },
@@ -75,8 +75,8 @@
         "Land ID#": 9,
         "EU-Land": "Griekenland",
         "Minimaal aantal vaccinaties nodig": [1, "any"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
     },
@@ -93,15 +93,15 @@
         "Land ID#": 11,
         "EU-Land": "Ierland",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 12],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 12,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": true,
         "Toelatingsreden op certificaat?": true
     },
     {
         "Land ID#": 12,
         "EU-Land": "Itali\u00eb",
-        "Minimaal aantal vaccinaties nodig": [1, "approved"],
+        "Minimaal aantal vaccinaties nodig": [1, "any"],
         "Telt eerdere besmetting mee als 1 vaccinatie?": false,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": false,
         "BSN verplicht op certificaat?": false,
@@ -111,7 +111,7 @@
         "Land ID#": 13,
         "EU-Land": "Kroati\u00eb",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 24],
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
@@ -129,16 +129,16 @@
         "Land ID#": 15,
         "EU-Land": "Litouwen",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
     },
     {
         "Land ID#": 16,
         "EU-Land": "Luxemburg",
-        "Minimaal aantal vaccinaties nodig": [1, "approved"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Minimaal aantal vaccinaties nodig": [1, "any"],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": false,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
@@ -156,8 +156,8 @@
         "Land ID#": 18,
         "EU-Land": "Nederland",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 72],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 72,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
     },
@@ -165,8 +165,8 @@
         "Land ID#": 19,
         "EU-Land": "Oostenrijk",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 8],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 8,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": true,
         "Toelatingsreden op certificaat?": true
     },
@@ -183,8 +183,8 @@
         "Land ID#": 21,
         "EU-Land": "Portugal",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 72],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 72,
         "BSN verplicht op certificaat?": 1,
         "Toelatingsreden op certificaat?": true
     },
@@ -210,7 +210,7 @@
         "Land ID#": 24,
         "EU-Land": "Slowakije",
         "Minimaal aantal vaccinaties nodig": 2,
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 4],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 4,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": false,
         "BSN verplicht op certificaat?": true,
         "Toelatingsreden op certificaat?": true
@@ -219,7 +219,7 @@
         "Land ID#": 25,
         "EU-Land": "Spanje",
         "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 6],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 6,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": false,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
@@ -227,16 +227,16 @@
     {
         "Land ID#": 26,
         "EU-Land": "Tsjechi\u00eb",
-        "Minimaal aantal vaccinaties nodig": [1, "approved"],
-        "Telt eerdere besmetting mee als 1 vaccinatie?": [true, 4],
-        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": [true, 48],
+        "Minimaal aantal vaccinaties nodig": [1, "any"],
+        "Telt eerdere besmetting mee als 1 vaccinatie?": 4,
+        "Accepteerd PCR test als alternatief voor 1 vaccinatie?": 48,
         "BSN verplicht op certificaat?": false,
         "Toelatingsreden op certificaat?": false
     },
     {
         "Land ID#": 27,
         "EU-Land": "Zweden",
-        "Minimaal aantal vaccinaties nodig": [2, "any", 1, ["JANS", "AZ"]],
+        "Minimaal aantal vaccinaties nodig": [25, "any", 1, ["JANS", "AZ"]],
         "Telt eerdere besmetting mee als 1 vaccinatie?": false,
         "Accepteerd PCR test als alternatief voor 1 vaccinatie?": false,
         "BSN verplicht op certificaat?": true,
