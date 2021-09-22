@@ -3,6 +3,7 @@ Covid QR code passport
 Zie Opdracht in folder Opdracht
 
 
+Able to read from file and from webcam
 # Preview
 ![Screenshot2](https://github.com/SuchLuukie/Covid-QR/blob/main/Preview/generator.PNG?raw=true)
 
